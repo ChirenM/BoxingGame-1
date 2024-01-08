@@ -1,5 +1,8 @@
 import greenfoot.*;
 
+// the healthbar class
+// @author(Chiren)
+
 public class HealthBar extends Actor {
     
     private int health = 100;
