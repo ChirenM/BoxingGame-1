@@ -1,9 +1,9 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class healthManager here.
+ * What controls the health to increase and decrease.
  * 
- * @author (your name) 
+ * @author (Elle)
  * @version (a version number or a date)
  */
 
