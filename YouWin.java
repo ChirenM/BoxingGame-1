@@ -1,9 +1,9 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class YouWin here.
+ * You win screen
  * 
- * @author (your name) 
+ * @author (Elizabeth)
  * @version (a version number or a date)
  */
 public class YouWin extends Actor
