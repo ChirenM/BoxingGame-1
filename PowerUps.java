@@ -1,9 +1,9 @@
 import greenfoot.*;
 
 /**
- * Write a description of class PowerUps here.
+ * Class for powerups and the timer for it.
  * 
- * @author (your name) 
+ * @author (Chiren)
  * @version (a version number or a date)
  */
 public class PowerUps extends Actor 
