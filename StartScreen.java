@@ -1,9 +1,9 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class StartScreen here.
+ * The welcome screen
  * 
- * @author (your name) 
+ * @author (Elizabeth and Chiren) 
  * @version (a version number or a date)
  */
 public class StartScreen extends World
