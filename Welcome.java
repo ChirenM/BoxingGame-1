@@ -1,9 +1,9 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Welcome here.
+ * Welcome screen
  * 
- * @author (your name) 
+ * @author (Elizabeth)
  * @version (a version number or a date)
  */
 public class Welcome extends Actor
