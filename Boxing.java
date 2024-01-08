@@ -1,8 +1,8 @@
 import greenfoot.*; // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
- * Write a description of class Boxing here.
+ * World class
  * 
- * @author (your name)
+ * @author (elle)
  * @version (a version number or a date)
  */
 
