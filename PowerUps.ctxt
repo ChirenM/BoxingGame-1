@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PowerUps
+comment0.text=\n\ Write\ a\ description\ of\ class\ PowerUps\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=xSize\ ySize\ type
+comment1.target=PowerUps(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
