@@ -1,9 +1,9 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Title here.
+ * Title
  * 
- * @author (your name) 
+ * @author (Elizabeth)
  * @version (a version number or a date)
  */
 public class Title extends Actor
