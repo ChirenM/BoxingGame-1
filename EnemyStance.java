@@ -1,7 +1,7 @@
 import greenfoot.*;
 
 // How the Ai can move and punch
-//@author(Elle)
+//@author(Elle and Elizabeth)
 
 public class EnemyStance extends Actor {
 
