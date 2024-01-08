@@ -1,5 +1,8 @@
 import greenfoot.*;
 
+// the timer for the powerups to be used/ taken off screen
+// @author(chiren)
+
 public class PowerUpTimer extends Actor {
     final int FRAMES_DELAY = 200;
     int currentTimer = FRAMES_DELAY;
