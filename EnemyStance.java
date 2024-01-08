@@ -1,5 +1,8 @@
 import greenfoot.*;
 
+// How the Ai can move and punch
+//@author(Elle)
+
 public class EnemyStance extends Actor {
 
     private static final int MOVE_SPEED = 4;
