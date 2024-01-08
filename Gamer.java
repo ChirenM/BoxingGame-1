@@ -1,9 +1,9 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class gamer here.
+ * How the gamer (main character) moves, punches and picks up power ups.
  * 
- * @author (your name) 
+ * @author (Elle)
  * @version (a version number or a date)
  */
 
